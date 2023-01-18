@@ -1,4 +1,4 @@
-- Experimental Project
+# Experimental Project
 
 Using `Rust` and `chatgpt` with a basic knowledge of the language,
 - How far i can get ?
@@ -7,7 +7,8 @@ Using `Rust` and `chatgpt` with a basic knowledge of the language,
 
 Some questions to answer during this learning path of `Rust` with the help of `AI`.
 
-* Setup:
+# Setup:
+
 - Change with you `API_KEY` inside `src/main.rc`
 - `cargo run` to run the project.
 
